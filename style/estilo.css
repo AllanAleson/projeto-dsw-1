@@ -1,0 +1,13 @@
+ h1 {
+    color:brown;
+ }
+p {
+    color: blue;
+    text-align: left;
+    padding: 1% 2%;
+}
+
+ .imagens{
+    width: 180px;
+    height: 180px;
+ }
